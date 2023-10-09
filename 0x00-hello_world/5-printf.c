@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - A program that print a line with printf funcion
+ * main - A program that print a line with printf function
  * Return: 0 (Correct)
  */
 
