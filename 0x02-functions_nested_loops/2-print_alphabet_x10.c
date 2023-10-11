@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * print_alphabet_x10 - Make the alphabet 10 times
+ * print_alphabet_x10 - Make the alphabet ten times
  * Return:void
  */
 
@@ -13,7 +13,7 @@ int i;
 i = 0;
 while (i < 10)
 {
-	for (ch = 'a'; ch <= 'z'; ch++)
+for (ch = 'a'; ch <= 'z'; ch++)
 {
 _putchar(ch);
 }
