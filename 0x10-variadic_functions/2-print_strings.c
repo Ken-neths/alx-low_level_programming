@@ -18,9 +18,7 @@
 		char *str;
 		unsigned int index;
 
-
 		va_start(strings, n);
-
 
 		for (index = 0; index < n; index++)
 		{
@@ -37,9 +35,7 @@
 				printf("%s", separator);
 		}
 
-
 		printf("\n");
-
 
 		va_end(strings);
 	}
